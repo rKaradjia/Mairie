@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"fr.mairie.modeles","l":"ModeleMairie"}]
